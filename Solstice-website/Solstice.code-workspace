@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/Inria_Sans,Just_Me_Again_Down_Here"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Solstice"
+	}
+}
