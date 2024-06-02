@@ -19,35 +19,47 @@
 <body>
     <a href="https://hackclub.com/" class="hack-link"><img class="hackclub-logo" src="hack-club-logo.png" alt="Hack Club Logo"></a>
     
-    <img class="horus" src="horus.PNG" alt="Solstice logo">
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">What is a Hackathon?</a></li>
+                <li><a href="#workshop">Workshops</a></li>
+                <li><a href="#faq">FAQs and Contact</a></li>
+                <li><a href="#previous-events">Previous Events</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    
+    <img id="home" class="horus" src="horus.PNG" alt="Solstice logo">
     
     <div class="description">
         <h2>Solstice is a Coding Party</h2>
-        <p>Solstice is a social coding event open to all middle and high school students from the Boys and Girls Club of Lake County. We'll come together for a day to discover the joy of code, build creative projects, and share them with the world!</p>
-        <p>Solstice is organized in public by teenagers just like yourself at Hack Club - and we want you to contribute! Join us in the #chicago-day-of-service channel on the Hack Club Slack to help craft this event into something truly magical.</p>
+        <p>Solstice is a social coding event open to all middle and high school students from the Boys and Girls Club of Lake County. We'll come together for a day to discover the joy of code, build creative projects, and share them with the world! <br> 
+            <br> Solstice is organized in public by teenagers just like yourself at Hack Club - and we want you to contribute! Join us in the #chicago-day-of-service channel on the Hack Club Slack to help craft this event into something truly magical.</p>
     </div>
+
+    <h2 id="workshop" class="workshop-title">Workshops</h2>
 
     <div class="workshop-block">
-        <h2 class="workshop-title">Workshops</h2>
-        
-        <div class="pcb">
-            <img class="pcb-img" src="pcb_image.PNG" alt="pcb">
-            <p class="pcb-description">Participants create their own Printed Circuit Board (PCB) keychain that they can design and customize themselves, as well as connect to any website of their choice and has an LED function. Through this workshop, Scouts will learn how to use EasyEDA, a circuit design software, and the fundamentals of PCB design using the EDA website.</p>
+        <div class="workshop">
+            <img class="workshop-img" src="pcb_image.PNG" alt="pcb">
+            <p class="workshop-description">Participants create their own Printed Circuit Board (PCB) keychain that they can design and customize themselves, as well as connect to any website of their choice and has an LED function. Through this workshop, Scouts will learn how to use EasyEDA, a circuit design software, and the fundamentals of PCB design using the EDA website.</p>
         </div>
-        
-        <div class="cyoa">
-            <img class="cyoa-img" src="CYOA_image.PNG" alt="cyoa">
-            <p class="cyoa-description">Participants will be able to build a Choose Your Own Adventure Game (CYOA) that incorporates music, interactive elements, and the ability to control all stylistic features. At the end they will have a playable game built with Python fit to share with family, and friends, and publish.</p>
+    
+        <div class="workshop">
+            <img class="workshop-img" src="sprig_image.PNG" alt="sprig">
+            <p class="workshop-description">Participants will create their own pixel art based video game with the JavaScript web-based editor Sprig. Through this track, attendees will learn about storytelling, designing assets, and designing the functionality of their game.</p>
         </div>
-        
-        <div class="sprig">
-            <img class="sprig-img" src="sprig_image.PNG" alt="sprig">
-            <p class="sprig-description">Participants will create their own pixel art based video game with the JavaScript web-based editor Sprig. Through this track, attendees will learn about storytelling, designing assets, and designing the functionality of their game.</p>
+
+        <div class="workshop">
+            <img class="workshop-img" src="CYOA_image.PNG" alt="cyoa">
+            <p class="workshop-description">Participants will be able to build a Choose Your Own Adventure Game (CYOA) that incorporates music, interactive elements, and the ability to control all stylistic features. At the end they will have a playable game built with Python fit to share with family, and friends, and publish.</p>
         </div>
     </div>
 
+    <h2 id="faq" class="faq-title">FAQs</h2>
     <div class="faq-block">
-        <h2 class="faq-title">FAQs</h2>
         
         <div class="cost">
             <h2>How much does it cost?</h2>
@@ -71,11 +83,11 @@
 
         <div class="more-qs">
             <h2>I have another question!</h2>
-            <p>Feel free to reach out! You can either send a message in the #chicago-day-of-service channel in the Hack Club Slack or send an email to nila@hackclub.com with any questions you may have.</p>
+            <p>Feel free to reach out! You can either send a message in the #chicago-day-of-service channel in the Hack Club Slack or send an email to <a class="email" href="mailto:marianna@hackclub.com"> marianna@hackclub.com </a> with any questions you may have.</p>
         </div>
     </div>
 
-    <img class="previous-events" src="previous-events.PNG" alt="previous events">
+    <img id="previous-events" class="previous-events" src="previous-events.PNG" alt="previous events">
 
     <p class="footer">Made with &lt;3 by <a class="footer-link" href="https://hackclub.com/">Hack Club</a></p>
 </body>
