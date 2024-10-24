@@ -1,5 +1,5 @@
-# solstice
-Chicago days of service!
+# Solstice
+Our Chicago days of service event, powered by Hack Club!
 
 ## Our team
 | Username    | Role |
