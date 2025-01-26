@@ -38,4 +38,4 @@ We wanted to create a PCB design that celebrated the coming of the summer solsti
 
 HUGE thank you to to Mr. [Casey Smith](https://ece.illinois.edu/about/directory/staff/cjsmith0)and Mr. [Jordan Knight](https://ece.illinois.edu/about/directory/staff/jknight4) at the UIUC ECE Shop for giving us an inside into the manufacturing world of PCBs and being able to help us under such tight circumstances. Seeing the machines copper etching, the delicate process of soldering, and the translation of schematics to real and working prototypes was a once in a lifetime opportunity. 
 
-![The special PCB prototype from ECE Shop!](
+The special PCB prototype from ECE Shop!<img src='https://cloud-2212rvxc5-hack-club-bot.vercel.app/0solstice-dinner.jpg' width=300 height=200>
