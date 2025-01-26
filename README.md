@@ -27,7 +27,7 @@ Nearing the end of the event we decided it would be a fun opportunity to have al
 ## Our Dinner
 The night before our hackathon, we had an inspirational dinner with a few fantastic women in tech. The dinner was held at the Siena Tavern, located in the Magnificent Mile area of Chicago. We hosted 7 Hack Club girls, 3 women in tech, and 1 staff member.
 
-![Our team alongside our honored guests at the dinner!](https://cloud-pxqm06j6k-hack-club-bot.vercel.app/0download.png)
+![Our team alongside our honored guests at the dinner!](https://cloud-gwx3c5y0q-hack-club-bot.vercel.app/0solstice-dinner.png)
 
 We were able to learn more about each of our guests' experiences as a woman in tech, learn about how they became interested in their specialties in tech, and hear their thoughts on keeping up with new technologies and trends. A special thank you to our guests: Brianne Caplan, Lisset Rico, and Jenni Munoz! Each of them was generous in sharing and inspiring our Hack Club members.
 
@@ -38,4 +38,4 @@ We wanted to create a PCB design that celebrated the coming of the summer solsti
 
 HUGE thank you to to Mr. [Casey Smith](https://ece.illinois.edu/about/directory/staff/cjsmith0)and Mr. [Jordan Knight](https://ece.illinois.edu/about/directory/staff/jknight4) at the UIUC ECE Shop for giving us an inside into the manufacturing world of PCBs and being able to help us under such tight circumstances. Seeing the machines copper etching, the delicate process of soldering, and the translation of schematics to real and working prototypes was a once in a lifetime opportunity. 
 
-![The special PCB prototype from ECE Shop](
+![The special PCB prototype from ECE Shop!](
