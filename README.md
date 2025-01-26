@@ -27,7 +27,7 @@ Nearing the end of the event we decided it would be a fun opportunity to have al
 ## Our Dinner
 The night before our hackathon, we had an inspirational dinner with a few fantastic women in tech. The dinner was held at the Siena Tavern, located in the Magnificent Mile area of Chicago. We hosted 7 Hack Club girls, 3 women in tech, and 1 staff member.
 
-![Our team alongside our honored guests at the dinner!](https://cloud-gwx3c5y0q-hack-club-bot.vercel.app/0solstice-dinner.png)
+![Our team alongside our honored guests at the dinner!](https://cloud-2212rvxc5-hack-club-bot.vercel.app/0solstice-dinner.jpg)
 
 We were able to learn more about each of our guests' experiences as a woman in tech, learn about how they became interested in their specialties in tech, and hear their thoughts on keeping up with new technologies and trends. A special thank you to our guests: Brianne Caplan, Lisset Rico, and Jenni Munoz! Each of them was generous in sharing and inspiring our Hack Club members.
 
