@@ -53,6 +53,7 @@ Finally, we created Solstice themed lithopanes (transluscent 3D printed images t
 <img src='https://cloud-rgcbf2fav-hack-club-bot.vercel.app/0screenshot_2025-01-26_at_2.46.48___pm.png' width=700> 
 
 *Making of the Lithopane!*
+
 ***Thank you so much to everyone who made Solstice possible!***
 
 
