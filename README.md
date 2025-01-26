@@ -1,5 +1,5 @@
 # ☀️ Solstice ☀️ 
-Our Chicago days of service event, powered by Hack Club!
+Our Chicago days of service event, powered by Hack Club! <3
 
 ## Our team
 | Username    | Role |
@@ -46,3 +46,13 @@ HUGE thank you to to Mr. [Casey Smith](https://ece.illinois.edu/about/directory/
 <img src='https://cloud-rf05fsety-hack-club-bot.vercel.app/0image__1_.jpg' width=700>
 
 *The special PCB prototype from ECE Shop!*
+
+## 🧡 Wrap Up + Solstice Lithopanes!
+Finally, we created Solstice themed lithopanes (transluscent 3D printed images that appear when light passes through) for the students as well as the dinner guests to take as souvenirs (HUGE thank you to [Mr. Tom Kiesel](https://directory.illinois.edu/search?search_type=staff&g-recaptcha-response=03AFcWeA6vX-pnPgfOb7y0I9wyR2X1dc3zMjeJyU-ZSJvMrAQgC177TKQMoyQEo68X9X9EswejFCyDoq4CV2FJ5ksxhDq-2qp4MC3882vq34Tt__AcU1csRBXdqj7EHoX2lIcl0cmmsaSdW6VJOYfR6J6pb9XBws2UVHFEpS-ORLlGCPAcLYf0a3MqeNsND1q2JGr3lSuONI-A340qwfkq52p_TvmeizmxJpzNqIK0NaeW-Y-Vw3HBtQBXdG-rBwz-EWZe4CxI62fQOH0hj7pXMbV3CkBLllX5RmRx4zn5KwAC5dQ-Z9TQl28D9qGmKASIarFiOfsuVmd2-tQbQFl3V8O0e7tG3CPT-R7PPdGsqygHYCBw1yCTNCpxDjH2cepCT8V1GmS71ldqcm7MPiwt4hNzjHhfR1h_FaCow_WHcvqO2c6js9f4DBI6GRyeDV6_8g01oMXn3Ejw4DTkLKXXFCmEwroHNnoFVInR4oFjvjiCD3j82vT7lVk3HDbswTUWDBekK96e8dVlrWE5ri7nwoEq-SPi_WqQwqHoOP14JqG90tQ93Jqy-2n1jZokenNbrZgLG25ZaYCtP1DJa8BnhyCN6apnqKmDsqOTO8483GrcHuPWRWyl6e3kIwyQsYC-19NaT9XJod2S4QtpvMrp2SLga2bfo8lCbxW8z8NL1rVn1LkqB--ZkAjG7TFC04xVHgaVpBV8Nto-1__6LYlkh2Rz8_umhEA7bt8yWlp2GsKMdC_JZ9jtIltL4qh6tVafIS7os-4YQGnGFqeZlsG4XALfC-OjSzMnjdN-VbB3zmkaGLpq6O8qugL21mjEjhD6H76JsqRtkOo7Pdhr6-97Aoas9YQ0cAaaBuUa8eoqGfFtgm3IqrVQlg0QsyzF3jEtbuCqdMipW_IjK3LTyLt12JfRw36i8CzXOSMZ8ov97RGf0QEts3Frht_O4tN-iF5vXY6strjVrZkE&firstName=tom&lastName=kiesel) who helped in 3D printing these magical creations)! With Solstice, not only did we want to emphasize the programming and software aspects of computer science, but how it also works alongside hardware and machinery. We want to make sure that students don't feel limited and encourage them to pursue tech's interdisciplinarity. Overall, Solstice was an incredible event filled with many challenges but even more celebrations and laughs. By the end, students were exhilarated by the world of tech and one shared with us how she wants to be a "dancer who codes!" and others willingly skipped their weekly pool treat to code with us. 
+
+<img src='https://cloud-rgcbf2fav-hack-club-bot.vercel.app/0screenshot_2025-01-26_at_2.46.48___pm.png' width=700> 
+
+*Making of the Lithopane!*
+***Thank you so much to everyone who made Solstice possible!***
+
+
