@@ -56,6 +56,7 @@ Finally, we created Solstice themed lithopanes (transluscent 3D printed images t
 
 ***Thank you so much to everyone who made Solstice possible!***
 
-* - Solstice Team ❤︎ *
+
+*— Solstice Team ❤︎*
 
 
